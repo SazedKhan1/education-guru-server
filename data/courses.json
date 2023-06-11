@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "picture": "../assests/images/course1.jpg",
+        "name": "Computer Training"
+    },
+    {
+        "id": "2",
+        "picture": "../assests/images/courses2.jpg",
+        "name": "Cooking Class"
+    },
+    {
+        "id": "3",
+        "picture": "../assests/images/course3.jpg",
+        "name": "Languages Courses"
+    },
+    {
+        "id": "4",
+        "picture": "../assests/images/course4.jpg",
+        "name": "Online Gaming"
+    },
+    {
+        "id": "5",
+        "picture": "../assests/images/course5.jpg",
+        "name": "Sports Courses"
+    },
+    {
+        "id": "6",
+        "picture": "../assests/images/course6.jpg",
+        "name": "Electronic Courses"
+    }
+]
